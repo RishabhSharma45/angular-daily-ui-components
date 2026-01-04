@@ -110,7 +110,9 @@ Angular provides:
 
 - Lifecycle hooks
 
-### 🚀 Conclusion
+---
+
+## 🚀 Conclusion
 
 Angular is not just a frontend tool —
 
