@@ -57,3 +57,73 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+---
+
+
+```
+my-angular-app/
+│
+├── node_modules/
+├── src/
+│   ├── app/
+│   ├── assets/
+│   ├── environments/
+│   ├── index.html
+│   ├── main.ts
+│   ├── styles.css
+│
+├── angular.json
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+### node_modules/ (Isme mat ghusna 😄)
+
+node_modules contains all dependency packages required by Angular application
+
+### src/
+
+**src/index.html**
+
+Single page Application 
+
+> Yahin se Angular poora app inject karta hai.
+
+**src/main.ts**
+
+Angular app yahin se start hota hai.
+
+**src/styles.css**
+
+Global css
+
+**src/app/ – Heart of Angular ❤️**
+
+```
+app/
+├── app.component.ts
+├── app.component.html
+├── app.component.css
+├── app.module.ts
+└── app-routing.module.ts
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
