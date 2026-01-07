@@ -116,6 +116,15 @@ tsconfig.json used to configured typeScript and set some set of rules in root di
 
 **package.json**
 
+“package.json defines the project metadata, scripts, and dependency graph,
+
+enabling npm to manage lifecycle commands and environment consistency.”
+
+**angular.json**
+
+“angular.json is the central workspace configuration file that defines how Angular CLI builds, serves, tests, and packages applications across different environments.”
+
+
 
 
 
