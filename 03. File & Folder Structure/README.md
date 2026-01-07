@@ -110,6 +110,14 @@ app/
 └── app-routing.module.ts
 ```
 
+**tsconfig.json v/s tsconfig.app.json v/s tsconfig.spec.ts**
+
+tsconfig.json used to configured typeScript and set some set of rules in root directory where as tsconfig.app.json is used to configured ts of app module and tsconfig.spec.json is for testing purpose . 
+
+**package.json**
+
+
+
 
 
 
